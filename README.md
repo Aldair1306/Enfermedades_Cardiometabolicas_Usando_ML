@@ -1,6 +1,6 @@
 # Modelado Predictivo de Enfermedades Cardiometabólicas mediante Técnicas de Aprendizaje Automático 🤖🧠
 
-##Autores:
+## Autores:
 
 - [@Aldair1306](https://github.com/Aldair1306)
 - [@Ernesto2105](https://github.com/ernesto2105)
